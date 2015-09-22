@@ -27,6 +27,7 @@ agynamix.de###cookie
 aide-joomla.com###ca_banner
 airvpn.org##div[style*='width:800px']
 akademiskforlagbusiness.dk###cookieWarning
+albertmartin.de###cookiecontrol
 alinea.dk###cookieWarning
 alinea.fr##.cookies-notice-msg
 allegro.pl##.cookie-policy-banner
