@@ -19,6 +19,7 @@
 aau.dk##.cookieNotification
 abbeyroad.com###cookie-overlay-footer
 about.com###cookie_banner_container
+accursedfarms.com##.acceptCookiesContainer
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
